@@ -13,7 +13,7 @@
 #include <multiball/wifi.h>
 
 #ifdef RGB_LED_PIN
-#include <Adafruit_Neopixel.h>
+#include <Adafruit_NeoPixel.h>
 #endif
 
 #ifdef USE_DIAGNOSTICS
